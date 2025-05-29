@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/user1/lolarchiver-cli/pkg/api"
-	"github.com/user1/lolarchiver-cli/pkg/config"
+	"github.com/ivan9253/lolarchiver-cli/pkg/api"
+	"github.com/ivan9253/lolarchiver-cli/pkg/config"
 )
 
 const (
