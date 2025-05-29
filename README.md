@@ -7,7 +7,7 @@ No external dependencies, small and simple codebase.
 ## Installation
 
 ```bash
-go install github.com/ivan9253/lolarchiver-cli@latest
+go install github.com/ivan9253/lolarchiver-cli/cmd/lolarchiver-cli@latest
 ```
 
 ## Configuration
