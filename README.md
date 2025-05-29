@@ -20,6 +20,10 @@ lolarchiver-cli config set-api-key YOUR_API_KEY
 
 ## Usage
 
+```bash
+lolarchiver-cli --help
+```
+
 ### YouTube Tools
 
 Requires paid API subscription.
